@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../yolov7_mavrc"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
